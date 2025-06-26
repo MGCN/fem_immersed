@@ -1,4 +1,4 @@
-ImmersedBoundary - ImmersedBoundary Simulations at ICS
+ImmersedBoundary - ImmersedBoundary Simulations
 =====================================================================
 
 ICS ImmersedBoundary module supposed to be couple with Impact
